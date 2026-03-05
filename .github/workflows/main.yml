@@ -34,4 +34,4 @@ jobs:
           publish_dir: ./
 
       - name: Use Secret
-        run: echo "API_KEY is ${{ secrets.API_KEY }}"
+  run: echo "Secret stored safely"
