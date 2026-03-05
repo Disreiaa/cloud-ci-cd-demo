@@ -34,4 +34,4 @@ jobs:
           publish_dir: ./
 
       - name: Use Secret
-  run: echo "Secret stored safely"
+        run: echo "Secret stored safely"
